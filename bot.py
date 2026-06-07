@@ -203,8 +203,8 @@ def format_panel_text() -> str:
     text = (
         "💎 欢迎使用 Telegram 账号轰炸系统(此版本为公益共享版)\n"
         "──────────────────────\n"
-        f"本版本永久承诺1分钱不收请关注创作者 https://t.me/APl35\n"
-        f"📟 系统状态: 在线 (v3.8 作者此账号已无法登陆😭😭😭使用的去帮我点点举报吧账号打掉 @APl520)\n"
+        f"本版本永久承诺1分钱不收请关注创作者 https://t.me/APl57 \n"
+        f"📟 系统状态: 在线 (v3 作者  @APl520 )\n"
         f"📊 配置账号: {active_count} / {MAX_CONCURRENT_TASKS}\n"
         f"📋 总任务数: {total_count} (活跃: {active_count} | 停止: {stopped_count})\n\n"
     )
