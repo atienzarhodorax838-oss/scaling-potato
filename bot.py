@@ -62,7 +62,7 @@ print("=" * 70)
 print()
 
 # ==================== 配置区域 ====================
-BOT_TOKEN = "8911227833:AAGI-55R6QLNuVle-i-m5NEC7Vx5dq-G00w"
+BOT_TOKEN = "8660734460:AAGfm9fjtu2ZaJMRKtvAlPTbyzD7qKGIBtA"
 API_ID = 33059943
 API_HASH = '1c73a0510ba0b8cb3bd16f24acfd62bf'
 PROXY = None
