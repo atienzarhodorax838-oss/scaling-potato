@@ -1,4 +1,11 @@
-start = "python3 bot.py"
+[phases.setup]
+nixPkgs = ["python311"]
 
-[build]
-autoInstall = true
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
+
+[phases.start]
+cmd = "python bot.py"
+
+[start]
+processes = ["python bot.py"]
