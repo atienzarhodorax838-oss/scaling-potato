@@ -1,2 +1,6 @@
-python-telegram-bot
-telethon
+python-telegram-bot==20.7
+telethon==1.36.0
+cryptg>=0.4.0
+pyaes>=1.6.1
+rsa>=4.9
+pycryptodome>=3.20.0
